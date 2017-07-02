@@ -1,0 +1,8 @@
+//
+//  iterator.swift
+//  
+//
+//
+//
+
+import Foundation

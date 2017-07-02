@@ -1,0 +1,8 @@
+//
+//  singleton.swift
+//  
+//
+//
+//
+
+import Foundation

@@ -1,0 +1,8 @@
+//
+//  mediator.swift
+//  
+//
+//
+//
+
+import Foundation
